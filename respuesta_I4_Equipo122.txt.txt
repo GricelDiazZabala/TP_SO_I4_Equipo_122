@@ -1,0 +1,6 @@
+Respuestas
+
+A- En testing es de color azul
+B- En desarrollo es de color amarillo
+C- En el master es de color azul
+D- En el master quedo el favicon de beta
