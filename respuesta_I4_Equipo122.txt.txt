@@ -4,3 +4,9 @@ A- En testing es de color azul
 B- En desarrollo es de color amarillo
 C- En el master es de color azul
 D- En el master quedo el favicon de beta
+
+E- Si, Beta y Gamma tuvieron problemas
+F- El problema era que no permitia que se hiciera un push a una version que no era la última subida.
+G- La solucion más obvia es hacer un pull primero y despues cambiar los archivos y hacer el push al final, pero la consecuencia es que se perderían los primeros cambios realizados, se tendría que esperar a que cada persona termine con su parte para poder modificar un archivo. 
+H- Al utilizar push -f se sobreescriben los archivos hechos en el push, es como si se hiciera el push a la fuerza
+I- Se puede esperar a que termine el otro para hacer el pull y despues modificar el archivo. O incluso otra solucion puede ser que cada integrante trabaje en su propia rama y al final del proyecto unirlas y modificar a mano los conflictos, probablemente esta sea la manera más optima.
